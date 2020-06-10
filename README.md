@@ -1,6 +1,6 @@
 # Zhanyuan-Huang.github.io
 personal website
 <br>
-<a href="https://zhanyuan-huang.github.io/Resume - Zhanyuan Huang.pdf">Resume</a>
+<a href="https://Zhanyuan-Huang.github.io/blob/master/Resume.pdf">Resume</a>
 <br>
 <a href="https://zhanyuan-huang.github.io/firstPage.html">firstPage</a><br>
