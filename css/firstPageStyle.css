@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    font-size: 280%;
+    text-align: center;
+}
+
+nav {
+    background-color: grey;
+    font-family: Arial, 'Times New Roman';
+    font-size: 150%;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightblue;
+    font-variant: small-caps;
+}
+
+details {
+    font-style: italic;
+}
+
+footer {
+    background-color: gray;
+}
