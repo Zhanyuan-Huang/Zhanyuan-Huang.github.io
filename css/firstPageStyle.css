@@ -11,6 +11,10 @@ nav{
     text-align: center;
 }
 
+nav a:hover{
+    background-color: lightyellow;
+}
+
 h2{
     background-color: lightblue;
     font-variant: small-caps;
